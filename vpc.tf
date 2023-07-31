@@ -102,7 +102,7 @@ resource "aws_subnet" "private-subnet-3" {
   map_public_ip_on_launch  = false
 
   tags      = {
-    Name    = "Private Subnet 32 | DataBase Tier"
+    Name    = "Private Subnet 3 | DataBase Tier"
   }
 }
 
@@ -115,7 +115,7 @@ resource "aws_subnet" "private-subnet-4" {
   map_public_ip_on_launch  = false
 
   tags      = {
-    Name    = "Private Subnet 32 | DataBase Tier"
+    Name    = "Private Subnet 4 | DataBase Tier"
   }
 }
 
