@@ -1,6 +1,9 @@
 # Local .terraform directories
 **/.terraform/*
 
+# Local .terraform resources
+**/nat-gateway-assets/*
+**/vpc-assets/*
 # .tfstate files
 *.tfstate
 *.tfstate.*
