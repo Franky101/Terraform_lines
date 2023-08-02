@@ -4,6 +4,7 @@
 # Local .terraform resources
 **/nat-gateway-assets/*
 **/vpc-assets/*
+**/security terraform assets/*
 # .tfstate files
 *.tfstate
 *.tfstate.*
