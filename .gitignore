@@ -18,6 +18,7 @@
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
+terraform-user_accessKeys.csv
 override.tf
 override.tf.json
 *_override.tf
