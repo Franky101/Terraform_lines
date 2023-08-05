@@ -1,4 +1,4 @@
-# Terraform Starting Package
+# Terraform Starting Package V01.0
 Hi there! ✋
 
 ## Introduction
@@ -21,6 +21,7 @@ This is a guide to start understanding Terraform. You will find some basic actio
      region   = "<region>"
      profile  = "<your-aws-user>"
    }
+   ```
 
 3. **Terraform Commands**
     Run the following Terraform commands in your terminal:
@@ -30,7 +31,7 @@ This is a guide to start understanding Terraform. You will find some basic actio
     terraform apply
     ```
      ⚠️**Costs of these deployment**
-    We aware that this plan has included EIP (AWS Elastic IP) and NAT GATEWAYS **Are not included in AWS free tier at any point**.
+    We aware that this plan has included EIP (AWS Elastic IP) and NAT GATEWAYS **Are not included in AWS free tier at any point**. I will 
 
 
 4. When you are finished using your Terraform-managed infrastructure, destroy it with the following command:
